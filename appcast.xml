@@ -2,6 +2,12 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>90Heal</title>
+         <item>
+            <title>New Version Released 2.1.0</title>
+            <description>1.Bug Fixes 2.New jaddo chatbot feature added. Thank you - 90Heal</description>
+            <pubDate>Fri, 18 Oct 2023 14:30:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.ninetyheal.mindfull" sparkle:version="2.1.0" sparkle:os="android" />
+        </item>
         <item>
             <title>Version check out 1.5.0</title>
             <description>Minor updates and improvements.</description>
