@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>90Heal</title>
-          <item>
-        <title>New Version Released 3.0.0</title>
-        <description>We've added exciting new features. Thank you - 90Heal.</description>
-        <pubDate>Fri, 06 Sep 2024 14:30:39 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.ninetyheal.mindfull" sparkle:version="3.0.0" sparkle:os="android" />
+         <item>
+    <title>New Version Released 3.0.12</title>
+    <description>Check out the latest improvements and enhancements in version 3.0.12. Thank you - 90Heal.</description>
+    <pubDate>Mon, 23 Sep 2024 10:00:00 +0000</pubDate>
+    <enclosure url="https://play.google.com/store/apps/details?id=com.ninetyheal.mindfull" sparkle:version="3.0.12" sparkle:os="android" />
         </item>
           <title>90Heal</title>
          <item>
